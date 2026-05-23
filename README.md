@@ -1,6 +1,7 @@
 🔗 Live Preview
 
 🌌 Live Demo:
+https://ishwarikolte10.github.io/solar-planet-project/?utm_source=chatgpt.com
 Solar Planet Project Live Preview
 
 ✨ Features
@@ -30,8 +31,3 @@ solar-planet-project/
 ├── script.js       # Planet animations and interactive features
 ├── assets/         # Images, icons or media files (optional)
 └── README.md       # Project documentation
-🌍 About The Project
-
-The Solar Planet Project is a visually attractive educational website designed to explore the solar system in an interactive way. The project combines modern UI design with smooth animations and space-themed effects to create an immersive user experience inspired by NASA space visualizations.
-
-Created using only HTML, CSS, and JavaScript, this project demonstrates front-end development skills, animation techniques, responsive web design, and creative UI/UX implementation.
