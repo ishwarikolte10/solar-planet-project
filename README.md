@@ -1,7 +1,7 @@
 🔗 Live Preview
 
 🌌 Live Demo:
-https://ishwarikolte10.github.io/solar-planet-project/?utm_source=chatgpt.com
+https://ishwarikolte10.github.io/solar-planet-project
 Solar Planet Project Live Preview
 
 ✨ Features
